@@ -1,6 +1,6 @@
 import React, { useState } from "react";
-import UploadPDF from "./components/UploadPdf";
-import QASection from "./components/QaSection";
+import UploadPDF from "./components/UploadPDF.jsx";
+import QASection from "./components/QASection.jsx";
 import { ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 
